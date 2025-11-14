@@ -10,16 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somsonn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=somsonn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=somsonn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=somsonn&limit=5&theme=dark&combine_all_yearly_contributions=true)
